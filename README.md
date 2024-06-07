@@ -1,4 +1,4 @@
-# HiC_DNE
+# Procedures for calculating HiC dynamic network entropy (DNE)
 
 
-working on it
+this project analyzes dynamic network entropy (DNE) forf HiC data
