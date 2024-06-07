@@ -1,5 +1,8 @@
 #!/bin/bash
 
+
+
+
 java -jar /stg3/data3/peiyao/software/juicer-1.6/CPU/scripts/common/juicer_tools.jar \
 dump observed VC $hic_file ${chrid} ${chrid} BP ${res} \
 ${out_base}/VC_observed.${chrid}.${res}.txt
